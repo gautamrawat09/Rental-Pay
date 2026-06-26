@@ -1,0 +1,6 @@
+{
+  "name": "Rental Pay",
+  "description": "Local community rental sharing platform with secure simulated payments, profile verification, and peer rating systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
